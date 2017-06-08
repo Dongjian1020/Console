@@ -41,8 +41,8 @@
 特别地，对以上数据管理可以在控制台完成，简易步骤如下：
 创建Class
 进入控制台->云控中心->云数据，该界面点击Code右侧的下拉框，点击Add Class即可为应用添加Class，如下图所示：
-![image_1bhrfaa0khep142u1jsq1fig9fb9.png-48.4kB][4]
-如下弹框中输入符合条件的Class Name后，点击确定即可完成：
+![image_1bhrfaa0khep142u1jsq1fig9fb9.png-48.4kB][4]</br>
+如下弹框中输入符合条件的Class Name后，点击确定即可完成：</br>
 ![image_1bhrfaoa062i1vvb11gnt5o16vjm.png-21.6kB][5]
 ##### 本地数据导入
 如上图可以在云数据下找到【数据导入】选项。
