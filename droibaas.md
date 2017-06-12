@@ -36,7 +36,7 @@
 
 ### 云控中心
 #### 云数据
-云数据是 DroiBaaS 提供的数据存储服务，它建立在对象 DroiObject 的基础上，所有 DroiObject 均存储在云端上。您可以通过 Android Core SDK 对其进行操作，也可在 DroiBaaS 后台管理所有的对象。包含数据库、用户列表（_User）、用户群组（_Group)以及文件存储（_File)；关于如何使用DroiBaaS提供的云端数据库和文件存储，请参阅以下文档：Android开发指南或iOS开发指南。
+云数据是 DroiBaaS 提供的数据存储服务，它建立在对象 DroiObject 的基础上，所有 DroiObject 均存储在云端上。您可以通过 Android Core SDK 对其进行操作，也可在 DroiBaaS 后台管理所有的对象。包含数据库、用户列表（_User）、用户群组（_Group)以及文件存储（_File)；关于如何使用DroiBaaS提供的云端数据库和文件存储，请参阅以下文档：[Android开发指南](https://www.droibaas.com/html/doc_24125.html)或[iOS开发指南](https://www.droibaas.com/html/doc_24124.html)。
 
 特别地，对以上数据管理可以在控制台完成，简易步骤如下：
 创建Class
