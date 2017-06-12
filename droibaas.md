@@ -278,7 +278,7 @@ Id,name,age
 如果只是提交工单，您还可以在控制台的右下角点击[提交工单]。
 
 
-  [1]: http://static.zybuluo.com/boboz/29d50jpsbgedyydm57q9b16e/image.png
+  [1]: http://l6pumbzh-sand.droibaascdn.com/droi/l6pumbzhg7bPQ2C7mR2QGIr2ic2oAemblQDAD2gq/874147886085050368/test.png
   [2]: http://static.zybuluo.com/boboz/i67wrr7ih6zxrp4d7zu7ocoe/image.png
   [3]: http://static.zybuluo.com/boboz/fmzb29g6315lkn2xycys506y/image.png
   [4]: http://static.zybuluo.com/boboz/4jg1llpmpskr1ssn0yql9stq/image_1bhrfaa0khep142u1jsq1fig9fb9.png
