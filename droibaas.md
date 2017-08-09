@@ -146,7 +146,8 @@ Id,name,age
 * API名称：自定义。（例如：GetResult）
 * 接口类型，CloudCode路径，Method,APIKey根据实际情况选择。
 * URI：自定义。（例如：getresult）可在API列表->操作->详情->接口测试，查看完整API，并进行测试。
-### 应用推送  
+* 详细操作流程请参看[Droi Restful API 使用说明](https://www.droibaas.com/html/doc_24715.html)
+### 应用推送  
 
 **控制台 -> 指定应用 -> 应用推送**路径下，包含四大子菜单：
 
