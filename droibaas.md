@@ -43,10 +43,12 @@
 **进入控制台->云控中心->云数据**，该界面点击Code右侧的下拉框，点击Add Class即可为应用添加Class，如下图所示：
 ![image_1bhrfaa0khep142u1jsq1fig9fb9.png-48.4kB][4]</br>
 如下弹框中输入符合条件的Class Name后，点击确定即可完成：</br>
-![image_1bhrfaoa062i1vvb11gnt5o16vjm.png-21.6kB][5]
+![image_1bhrfaoa062i1vvb11gnt5o16vjm.png-21.6kB][5]  
+> 单个应用可创建class上限是50个。
 ##### 本地数据导入
 如上图可以在云数据下找到`数据导入`选项。
-> 由于云数据默认是UTF-8编码，直接在Excel中打开中文会出现乱码，需转换为ANSI编码。
+> 由于云数据默认是UTF-8编码，直接在Excel中打开中文会出现乱码，需转换为ANSI编码。  
+> 导入单个文件应小于1MB，数据少于6000条。
 
 ##### 本地文件格式要求：
 *	必须是CSV 文件
