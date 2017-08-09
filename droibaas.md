@@ -136,7 +136,7 @@ Id,name,age
 
 步骤：**云参数->添加云参数->输入参数名->输入参数类型->输入与参数类型对应的值->添加**。
 
-### API服务
+### Restful API服务
 * 基本API：此功能用于添加开发者所需的api接口，为用户提供便捷服务。
 * 进阶API：卓易超管后台已添加的api显示在进阶API界面，用户在此购买需要使用的api接口。
 * 我的API：用户已购买的api接口显示在该界面，并记录各接口的使用情况。
@@ -146,7 +146,8 @@ Id,name,age
 * API名称：自定义。（例如：GetResult）
 * 接口类型，CloudCode路径，Method,APIKey根据实际情况选择。
 * URI：自定义。（例如：getresult）可在API列表->操作->详情->接口测试，查看完整API，并进行测试。
-* 详细操作流程请参看[Droi Restful API 使用说明](https://www.droibaas.com/html/doc_24715.html)
+![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][17]    
+ 详细操作流程请参看[Droi Restful API 使用说明](https://www.droibaas.com/html/doc_24715.html)
 ### 应用推送  
 
 **控制台 -> 指定应用 -> 应用推送**路径下，包含四大子菜单：
@@ -343,3 +344,4 @@ Id,name,age
   [14]: http://i4.piimg.com/597314/1407de2deb7bf7b0.jpg
   [15]: http://i4.piimg.com/597314/2f95937a827ce259.jpg
   [16]: http://i4.piimg.com/597314/005c322a4a5a990e.jpg
+  [17]: http://i1.bvimg.com/597314/166c620c30e0b23f.png
