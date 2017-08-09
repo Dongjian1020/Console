@@ -289,7 +289,9 @@ Id,name,age
 
 #### 安全密钥
 * 用于在开发过程中可能使用到的各种身份识别信息，请妥善保管，避免泄露信息。 
-* 目前DroiBaaS的安全密钥包括Developer token 、Application ID （沙箱和生产环境）、MasterKey 以及用户创建的ApiKey。
+* 目前DroiBaaS的安全密钥包括Developer token 、Application ID （沙箱和生产环境）、MasterKey 以及用户创建的ApiKey等。
+* 用户如果使用了不同的SDK需要在配置不同的key，如下图用到短信服务，需要复制短信服务的key，在SDK中进行设置。    
+![image_1bhrfhr4kqimoem1apladge5q55.png-19kB][18]
 
 
 ## 数据分析中心
@@ -345,3 +347,4 @@ Id,name,age
   [15]: http://i4.piimg.com/597314/2f95937a827ce259.jpg
   [16]: http://i4.piimg.com/597314/005c322a4a5a990e.jpg
   [17]: http://i1.bvimg.com/597314/166c620c30e0b23f.png
+  [18]: http://i1.bvimg.com/597314/9f4b9f9dbbf18222.png
