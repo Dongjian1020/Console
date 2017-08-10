@@ -146,7 +146,7 @@ Id,name,age
 * API名称：自定义。（例如：GetResult）
 * 接口类型，CloudCode路径，Method,APIKey根据实际情况选择。
 * URI：自定义。（例如：getresult）可在API列表->操作->详情->接口测试，查看完整API，并进行测试。
-![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][17]    
+![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][10]    
  详细操作流程请参看[Droi Restful API 使用说明](https://www.droibaas.com/html/doc_24715.html)
 ### 应用推送  
 
@@ -159,7 +159,7 @@ Id,name,age
 
 特别地，下列针对推送相关的操作，可以在控制台完成：  
 
-![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][10]
+![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][11]
 
 #### 推送展示普通图片通知  
 在**控制台->应用->应用推送->推送通知->通知栏样式**选择普通通知或者图片通知样式，按照要求编辑文本或者上传图片，每种样式均可设置是否展开大图，大图图片可在**展开式通知->大图**上传；
@@ -227,7 +227,7 @@ Id,name,age
 * 箭头1/箭头2 指示的是搜索条件，用户可根据一定的条件查询相应的推送记录；
 
 * 箭头3 指示区域显示查询出的推送记录；</br>
-![image_1bhrff51pj6t1tdvbd51vk11t3934.png-37kB][11]
+![image_1bhrff51pj6t1tdvbd51vk11t3934.png-37kB][12]
 
 #### 查询透传消息记录  
 在**控制台->应用->应用推送->透传消息/透传消息记录**，进行透传消息推送/查询已发送的透传消息，
@@ -255,13 +255,13 @@ Id,name,age
 * 箭头3 指示具体如何添加渠道。
 ><font color=#FF0000>注意：添加渠道时，渠道名称和渠道ID唯一</font>
 
-![image_1bhrfg2nfv2rllh1i231f8h6j53h.png-44.8kB][12]
-![image_1bhrfgb0qn3jld41ff61mmgo0c3u.png-13.8kB][13]
+![image_1bhrfg2nfv2rllh1i231f8h6j53h.png-44.8kB][13]
+![image_1bhrfgb0qn3jld41ff61mmgo0c3u.png-13.8kB][14]
 
 **控制台->自更新->更新设置**，进行添加更新，如下图示例：
 
-![image_1bhrfgo891nlb1qql1o1lmvh1qtb4b.png-38.6kB][14]
-![image_1bhrfgv5r1ok1fu1sqe5251cqu4o.png-30.6kB][15]
+![image_1bhrfgo891nlb1qql1o1lmvh1qtb4b.png-38.6kB][15]
+![image_1bhrfgv5r1ok1fu1sqe5251cqu4o.png-30.6kB][16]
 * 箭头1 点击此处可添加更新；
 * 箭头2 已添加的更新显示在此区域；
 * 箭头3 添加更新时具体的操作。
@@ -274,7 +274,7 @@ Id,name,age
 
 ### 用户反馈
 使用DroiBaaS快速建立用户反馈系统，可以让您轻松建立起与用户沟通的桥梁。DroiBaaS控制台界面如下：
-![image_1bhrfhr4kqimoem1apladge5q55.png-19kB][16]
+![image_1bhrfhr4kqimoem1apladge5q55.png-19kB][17]
 客户端用户反馈的意见会显示在上图反馈列表中，相关人员可以针对该条意见回复用户。
 今日用户反馈的意见数、今日回复的数目以及总的反馈数量都会显示在图表中。
 
@@ -331,20 +331,20 @@ Id,name,age
 
 
   [1]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895485897646686208/1.png
-  [2]: http://i4.piimg.com/597314/3484ff734cd7c131.jpg
-  [3]: http://i4.piimg.com/597314/47195a10653b38ea.jpg
-  [4]: http://i2.muimg.com/597314/812f780999be370d.jpg
-  [5]: http://i4.piimg.com/597314/2e98ff7e3da8e254.jpg
-  [6]: http://i4.piimg.com/597314/8dbe5958fa0b622d.jpg
-  [7]: http://i4.piimg.com/597314/5ca0bc35cf0188d9.jpg
-  [8]: http://i4.piimg.com/597314/572960f49d3014c7.jpg
-  [9]: http://i4.piimg.com/597314/ace3fb162763476a.jpg
-  [10]: http://i4.piimg.com/597314/983358977f3db387.jpg
-  [11]: http://i4.piimg.com/597314/ee98f869c24a6c67.jpg
-  [12]: http://i4.piimg.com/597314/8f727491029752d5.jpg
-  [13]: http://i4.piimg.com/597314/b5bfb17d21fb3cde.jpg
-  [14]: http://i4.piimg.com/597314/1407de2deb7bf7b0.jpg
-  [15]: http://i4.piimg.com/597314/2f95937a827ce259.jpg
-  [16]: http://i4.piimg.com/597314/005c322a4a5a990e.jpg
-  [17]: http://i1.bvimg.com/597314/166c620c30e0b23f.png
-  [18]: http://i1.bvimg.com/597314/0cc5763a2c313fa2.png
+  [2]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895486871584788480/2.png
+  [3]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487037544194048/3.png
+  [4]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487071077654528/4.png
+  [5]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487111016890368/5.png
+  [6]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487142745726976/6.png
+  [7]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487173855694848/7.png
+  [8]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487204306341888/8.png
+  [9]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487232882651136/9.png
+  [10]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487265517064192/10.png
+  [11]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487294903824384/11.png
+  [12]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487321650642944/12.png
+  [13]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487350910365696/13.png
+  [14]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487380701175808/14.png
+  [15]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895487412356919296/15.png
+  [16]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895488719180152832/16.png
+  [17]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895488754797924352/17.png
+  [18]: http://o8fvmbzh.droibaascdn.com/droi/o8fvmbzhvcPYgPaRMBRHfuiP8I3MFNx1lQDQKlwH/895488798698889216/18.png
