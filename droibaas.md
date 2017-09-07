@@ -150,7 +150,9 @@ Id,name,age
 ![image_1bhrfebkvq9fdjaujs162039i2n.png-75.1kB][10]    
  除了设置cloudcode的api，也可以设置我们预置的对于DroiObject DroiUser相关的api，详细操作流程请参看[Droi Restful API 使用说明](https://www.droibaas.com/html/doc_24715.html)
 ### 应用推送  
-><font color=#FF0000>注意：详细的文档请参看[消息推送](https://www.droibaas.com/Index/document.html)</font>
+><font color=#FF0000>详细的文档请参看[消息推送](https://www.droibaas.com/Index/document.html)</font>
+
+
 **控制台 -> 指定应用 -> 应用推送**路径下，包含四大子菜单：
 
 * 推送通知：在线编辑推送消息内容，配置推送参数包括平台、消息样式、动作、推送目标、离线时间等，并开始推送消息；
@@ -244,7 +246,7 @@ Id,name,age
 * 步骤：**账户服务->第三方登录->选择相应的第三方平台编辑->输入参数->保存**
 
 ### 短信服务
-><font color=#FF0000>注意：详细的文档请参看[短信验证](https://www.droibaas.com/Index/document.html)</font>
+><font color=#FF0000>详细的文档请参看[短信验证](https://www.droibaas.com/Index/document.html)</font>
 * 短信模板：用户可自定义短信模板，包括编辑短信内容，短信有效时间等。
 * 短信记录：用户可查看发送短信的记录，以及短信数据统计。
 
@@ -260,7 +262,8 @@ Id,name,age
 ![image_1bhrfg2nfv2rllh1i231f8h6j53h.png-44.8kB][20]
 
 ### 自更新
-><font color=#FF0000>注意：详细的文档请参看[版本更新](https://www.droibaas.com/Index/document.html)</font>
+><font color=#FF0000>详细的文档请参看[版本更新](https://www.droibaas.com/Index/document.html)</font>
+
 * 更新设置：应用更新帮助开发者将应用升级到最新版本，可以让存量用户体验到应用的最新版本。由于iOS系统限制，目前暂时只提供Android版本的相关功能。
 * 渠道设置：正常情况下，系统会自动获取所有终端设备的渠道信息。由于网络原因或数据传输延迟可能导致部分渠道信息更新不及时，特提供手动维护渠道信息的功能，方便您及时将最新版本更新到相关设备上。
 
@@ -290,7 +293,9 @@ Id,name,age
 * 更新日志：此处用户可以描述更新的内容。
 
 ### 用户反馈
-><font color=#FF0000>注意：详细的文档请参看[用户反馈](https://www.droibaas.com/Index/document.html)</font>
+><font color=#FF0000>详细的文档请参看[用户反馈](https://www.droibaas.com/Index/document.html)</font>
+
+
 使用DroiBaaS快速建立用户反馈系统，可以让您轻松建立起与用户沟通的桥梁。DroiBaaS控制台界面如下：
 ![image_1bhrfhr4kqimoem1apladge5q55.png-19kB][17]
 客户端用户反馈的意见会显示在上图反馈列表中，相关人员可以针对该条意见回复用户。
