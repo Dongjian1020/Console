@@ -238,6 +238,8 @@ Id,name,age
 
 
 ### 账号服务
+><font color=#FF0000>详细的文档请参看[用户管理](https://www.droibaas.com/Index/document.html)</font>
+
 
 #### 第三方登录
 * 使用DroiUser账号框架快速搭建您自己的账号系统后，还可以快速轻松的接入多种第三方登录，请首先至第三方登录授权网站开通相关服务并获取对应的授权信息。
@@ -318,6 +320,9 @@ Id,name,age
 
 
 ## 数据分析中心
+><font color=#FF0000>详细的文档请参看[统计分析](https://www.droibaas.com/Index/document.html)</font>
+
+
 **登陆账号->选择应用->数据分析中心** 主要包含了七大菜单和趋势介绍：
 
  - 用户分析：包含了新增用户，活跃用户，沉默用户，启动次数，以及版本分布；
