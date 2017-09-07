@@ -35,7 +35,7 @@
 下面重点看下各分类的具体内容和操作。
 
 ### 云控中心
-><font color=#FF0000>注意：详细的文档请参看[数据服务](https://www.droibaas.com/Index/document.html)</font>
+><font color=#FF0000>详细的文档请参看[数据服务](https://www.droibaas.com/Index/document.html)</font>
 #### 云数据
 云数据是 DroiBaaS 提供的数据存储服务，它建立在对象 DroiObject 的基础上，所有 DroiObject 均存储在云端上。您可以通过CoreSDK 对其进行操作，也可在 DroiBaaS 后台管理所有的对象。包含数据库、用户列表（_User）、用户群组（_Group)以及文件存储（_File)；关于如何使用DroiBaaS提供的云端数据库和文件存储，请参阅以下文档：[Android开发指南](https://www.droibaas.com/html/doc_24125.html)或[iOS开发指南](https://www.droibaas.com/html/doc_24124.html)。
 
